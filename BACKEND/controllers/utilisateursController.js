@@ -19,7 +19,9 @@ exports.inscrireUtilisateur = async (req, res) => {
             prenom, 
             email, 
             motDePasse: hash, 
-            age, 
+            age,
+            poids, 
+            hauteur, 
             sexe 
         });
 

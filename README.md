@@ -37,7 +37,7 @@ FitBite is designed specifically for pregnant women to ensure their nutritional 
 ### **4. Meal Planning**  
 - Create daily plans with a calorie tracker.  
 - Save plans for reuse.
-- 
+  
 ---
 
 ## **Technologies Used**
